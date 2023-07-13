@@ -4,6 +4,10 @@
   font-family: "Poppins";
 }
 
+body {
+  background-color: #4fbb99;
+}
+
 div {
   border: black 2px dashed;
 }
